@@ -60,7 +60,7 @@ fun GreetingScreen(name: String) {
             )
             Spacer(modifier = Modifier.height(8.dp))
             Text(
-                text = "Criado com Vz - Code Editor",
+                text = "Criado por Vz - Code Editor",
                 fontSize = 14.sp,
                 color = Color(0xFF94A3B8)
             )
